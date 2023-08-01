@@ -19,6 +19,5 @@ Contributing
 If you would like to contribute to this project, feel free to submit a pull request or open an issue.
 
 --- Authores:
-Mohamed Helmy ElMalkh
-& Youssef Mahmoud Mmohamed
+Mohamed Helmy ElMalkh , Youssef Mahmoud Mmohamed
 
